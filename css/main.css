@@ -1,0 +1,37 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+  margin: 1em auto;
+}
+
+code {
+  font-family: "SFMono-Regular", "Ubuntu Mono", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+h1, h2, h3, p, ul, ol, dl, blockquote {
+  box-sizing: border-box;
+  margin: 0 auto;
+  margin-bottom: 1em;
+  padding-top: 0;
+  width: 1000px;
+}
+
+.visually-hidden {
+  display: none;
+}
+
+pre {
+  font-size: 110%;
+  line-height: 1.5;
+  margin: 2em auto;
+}
+
+dt {
+  font-weight: bold;
+  margin: 0 auto;
+}
+
+blockquote {
+  background: #efefef;
+  padding: 1em;
+}
